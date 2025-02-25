@@ -19,7 +19,7 @@ SMV is an **AI-driven** social media analytics app designed to help users unders
 ## **🛠 Technologies Used**
 
 ### **Frontend**
-- **Flutter** (Dart) – Cross-platform app development  
+- **Android app ** (kotlin) – Native Android app 
 - **Provider / Riverpod** – State management  
 - **Material Design** – Modern UI/UX  
 
@@ -29,9 +29,22 @@ SMV is an **AI-driven** social media analytics app designed to help users unders
 - **Cloud Functions** – Serverless logic execution  
 - **Dio / Retrofit** – Networking & API integration  
 
-### **AI & Analytics**
-- **TensorFlow Lite** – On-device ML models for image insights  
-- **Google Vision API** – Image recognition and analysis  
-- **Charts & Graphs** – Data visualization for user insights  
+## 📸 Screenshots
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/4c42234a-36fa-4e92-befa-15e54d05ff04" width="24%">
+<img src="https://github.com/user-attachments/assets/61804e47-be8d-46f6-bfbb-21dc3cca6ae9" width="24%">
+<img src="https://github.com/user-attachments/assets/3e8a89bf-be6b-4a4b-9adc-10d40389c79a" width="24%">
+<img src="https://github.com/user-attachments/assets/b8f4ef8a-9c07-4f5e-b19d-89d665427b40" width="24%">
+  
+<img src="https://github.com/user-attachments/assets/dd145a4e-4d4f-4807-9b0a-173164f50703" width="24%">
+<img src="https://github.com/user-attachments/assets/8d17f621-3d83-46ac-9d36-12a7f6438b3c" width="24%">
+<img src="https://github.com/user-attachments/assets/600de028-74a7-4951-a78e-295b1dae5bcd" width="24%">
+
+</div>
+
+
+  
 
 
