@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/Type-Client%20Project-FF4444?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Delivered-brightgreen?style=for-the-badge)
 
-**An AI-driven social media analytics Android app that helps users understand their social appeal.**  
+**A Social media analytics Android app that helps users understand their social appeal.**  
 Upload photos, receive engagement predictions, collect community feedback, and make data-driven content decisions.
 
 > ⚠️ **Confidential Client Project** — Source code is not publicly available.  
